@@ -1,2 +1,2 @@
-# WPF_DataBinding
+# WPF DataBinding
 Exercise to learn WPF Data Binding
